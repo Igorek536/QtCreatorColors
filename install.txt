@@ -1,0 +1,2 @@
+To install, run the command:
+cp *.xml ~/.config/QtProject/qtcreator/styles 
